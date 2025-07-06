@@ -1,9 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <title>Proyecto ETL de Indicadores Económicos del Perú</title>
-</head>
+
 <body>
 
 <h1>📊 Proyecto ETL de Indicadores Económicos del Perú 🇵🇪</h1>
