@@ -3,29 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <title>Proyecto ETL de Indicadores Económicos del Perú</title>
-    <style>
-        body {
-            font-family: 'Segoe UI', sans-serif;
-            background-color: #f9f9f9;
-            color: #333;
-            line-height: 1.6;
-            padding: 40px;
-            max-width: 900px;
-            margin: auto;
-        }
-        h1, h2, h3 {
-            color: #2c3e50;
-        }
-        pre {
-            background-color: #eee;
-            padding: 10px;
-            overflow-x: auto;
-        }
-        a {
-            color: #2980b9;
-            text-decoration: none;
-        }
-    </style>
 </head>
 <body>
 
